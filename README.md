@@ -46,8 +46,8 @@ graph TD
 ## 📈 Organization Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=movnixbot&show_icons=true&theme=dark" alt="MovnixBot GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=movnixbot&layout=compact&theme=dark" alt="MovnixBot Top Languages" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=movnixbot&show_icons=true&theme=dark" alt="MovnixBot GitHub Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=movnixbot&layout=compact&theme=dark" alt="MovnixBot Top Languages" height="150" />
 </p>
 
 ---
