@@ -32,13 +32,13 @@ These stats reflect the current sync coverage of the Movnix platform:
 
 ```mermaid
 graph TD
-    A[TMDB / OMDB API] -->|Priority 1| D(Priority Merge Engine)
-    B[HTML Scraper / Web Crawler] -->|Priority 3| D
-    C[Video Stream / Subtitles Resolver] -->|Priority 2| D
-    D -->|Postgres Storage| E[(PostgreSQL VPS)]
-    D -->|Flat-File Export| F[Local Disk /app/data/export]
-    F -->|Auto-Push Pipeline| G[movnix-db Repository]
-    G -->|Raw CDN/GitHub Pages| H[movnix-sdk Client Library]
+    A["TMDB / OMDB API"] -->|Priority 1| D("Priority Merge Engine")
+    B["HTML Scraper / Web Crawler"] -->|Priority 3| D
+    C["Video Stream / Subtitles Resolver"] -->|Priority 2| D
+    D -->|Postgres Storage| E[("PostgreSQL VPS")]
+    D -->|Flat-File Export| F["Local Disk /app/data/export"]
+    F -->|Auto-Push Pipeline| G["movnix-db Repository"]
+    G -->|Raw CDN/GitHub Pages| H["movnix-sdk Client Library"]
 ```
 
 ---
@@ -47,7 +47,7 @@ graph TD
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=movnixbot&show_icons=true&theme=dark" alt="MovnixBot GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=movnixbot&layout=compact&theme=dark" alt="MovnixBot Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=movnixbot&layout=compact&theme=dark" alt="MovnixBot Top Languages" height="150" />
 </p>
 
 ---
