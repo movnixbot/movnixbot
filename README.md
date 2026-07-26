@@ -52,4 +52,4 @@ graph TD
 
 ---
 
-*Automated updates compiled daily by MovnixBot daemon. Managed by [@miftah](https://github.com/miftah).*
+*Automated updates compiled daily by MovnixBot daemon. Managed by [@miftahganzz](https://github.com/miftahganzz).*
