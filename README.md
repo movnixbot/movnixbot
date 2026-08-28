@@ -22,8 +22,8 @@ These stats reflect the current sync coverage of the Movnix platform:
 
 - 🟢 **Daemon Status:** Active & Syncing
 - 🍿 **Total Movies Synced:** `1,569`
-- 📺 **Total TV Shows Synced:** `1,063`
-- 📄 **Flat-File JSON snap exports:** `114,103` files
+- 📺 **Total TV Shows Synced:** `1,064`
+- 📄 **Flat-File JSON snap exports:** `114,133` files
 - 📦 **NPM SDK Registry:** [movnix-sdk on NPM](https://www.npmjs.com/package/movnix-sdk)
 
 ---
