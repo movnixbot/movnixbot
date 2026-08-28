@@ -21,9 +21,9 @@ The Movnix platform consists of three core repositories that work together to cr
 These stats reflect the current sync coverage of the Movnix platform:
 
 - 🟢 **Daemon Status:** Active & Syncing
-- 🍿 **Total Movies Synced:** `1,566`
-- 📺 **Total TV Shows Synced:** `1,060`
-- 📄 **Flat-File JSON snap exports:** `113,988` files
+- 🍿 **Total Movies Synced:** `1,568`
+- 📺 **Total TV Shows Synced:** `1,063`
+- 📄 **Flat-File JSON snap exports:** `114,102` files
 - 📦 **NPM SDK Registry:** [movnix-sdk on NPM](https://www.npmjs.com/package/movnix-sdk)
 
 ---
